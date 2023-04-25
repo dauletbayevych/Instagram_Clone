@@ -22,5 +22,5 @@ npm install --force
 npm start
 ```
 ***
-***localhost:3000***
+***start: localhost:3000***
 ***
